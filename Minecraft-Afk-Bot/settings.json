@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "darkendie.aternos.me",
-    "port": 29880,
+    "ip": "vegath.aternos.me",
+    "port": 22803,
     "version": "1.12.1"
   },
   
